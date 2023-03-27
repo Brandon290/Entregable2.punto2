@@ -1,0 +1,15 @@
+C:\Users\hp\torta\obj\Debug\net7.0\torta.csproj.AssemblyReference.cache
+C:\Users\hp\torta\obj\Debug\net7.0\torta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\torta\obj\Debug\net7.0\torta.AssemblyInfoInputs.cache
+C:\Users\hp\torta\obj\Debug\net7.0\torta.AssemblyInfo.cs
+C:\Users\hp\torta\obj\Debug\net7.0\torta.csproj.CoreCompileInputs.cache
+C:\Users\hp\torta\bin\Debug\net7.0\torta.exe
+C:\Users\hp\torta\bin\Debug\net7.0\torta.deps.json
+C:\Users\hp\torta\bin\Debug\net7.0\torta.runtimeconfig.json
+C:\Users\hp\torta\bin\Debug\net7.0\torta.dll
+C:\Users\hp\torta\bin\Debug\net7.0\torta.pdb
+C:\Users\hp\torta\obj\Debug\net7.0\torta.dll
+C:\Users\hp\torta\obj\Debug\net7.0\refint\torta.dll
+C:\Users\hp\torta\obj\Debug\net7.0\torta.pdb
+C:\Users\hp\torta\obj\Debug\net7.0\torta.genruntimeconfig.cache
+C:\Users\hp\torta\obj\Debug\net7.0\ref\torta.dll
